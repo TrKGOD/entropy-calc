@@ -1,4 +1,4 @@
-# entropy-calc
+# Entropy-Calculator
 Entropy calculator for malware development and malware analysis purposes
 Usage: python entropycalc.py <file>
 
